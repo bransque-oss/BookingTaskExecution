@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "TaskExecutor": {
+      "commandName": "Project"
+    }
+  }
+}
